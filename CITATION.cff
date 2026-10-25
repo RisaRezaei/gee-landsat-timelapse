@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Landsat Timelapse for Lakes and Wetlands"
+abstract: "Google Earth Engine script that turns four decades of cloud-free Landsat summer composites into an animated GIF or MP4, with the MNDWI shoreline traced on every frame."
+type: software
+authors:
+  - family-names: Abbasalizadehrezaei
+    given-names: Parisa
+    orcid: "https://orcid.org/0009-0009-5708-7673"
+repository-code: "https://github.com/RisaRezaei/gee-landsat-timelapse"
+url: "https://risarezaei.github.io/tool.html?r=gee-landsat-timelapse"
+license: MIT
+version: 1.0.0
+date-released: "2026-10-25"
