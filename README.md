@@ -3,6 +3,7 @@
 [![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-JavaScript-34A853?logo=googleearth&logoColor=white)](https://code.earthengine.google.com)
 [![Landsat](https://img.shields.io/badge/data-Landsat%201984%E2%80%93today-0B5394)](https://developers.google.com/earth-engine/datasets/catalog/landsat)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23646377.svg)](https://doi.org/10.5281/zenodo.23646377)
 
 Turn 40 years of Landsat into an **animated GIF** of any lake, wetland, river or coast. You get one cloud-free summer composite per year, with an optional **shoreline outline** so the change is easy to follow. It works well for talks, reports and social media.
 
@@ -48,6 +49,12 @@ Turn 40 years of Landsat into an **animated GIF** of any lake, wetland, river or
 - For a very large area, lower `dimensions` or `maxScenesPerPath` if you get a "memory limit exceeded" message.
 - Use `display: 'false'` for wetlands: vegetation turns green and open water turns dark blue.
 - The GIF link expires after a few hours; download the file if you want to keep it.
+
+## Cite this tool
+
+Abbasalizadehrezaei, P. (2026). *Landsat Timelapse for Lakes and Wetlands* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23646377
+
+GitHub also offers a ready-made citation under **Cite this repository** (from [CITATION.cff](CITATION.cff)).
 
 ## Author
 
